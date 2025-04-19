@@ -1,0 +1,9 @@
+fastapi
+pandas
+numpy
+torch
+matplotlib
+mplfinance
+langchain
+openai
+yfinance
