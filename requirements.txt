@@ -7,3 +7,5 @@ mplfinance
 langchain
 openai
 yfinance
+flask
+
